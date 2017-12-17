@@ -1,0 +1,21 @@
+@ARTICLE{lebretonL,
+   author = {{Lebreton}, J. and {van Lieshout}, R. and {Augereau}, J.-C. and 
+	{Absil}, O. and {Mennesson}, B. and {Kama}, M. and {Dominik}, C. and 
+	{Bonsor}, A. and {Vandeportal}, J. and {Beust}, H. and {Defr{\`e}re}, D. and 
+	{Ertel}, S. and {Faramaz}, V. and {Hinz}, P. and {Kral}, Q. and 
+	{Lagrange}, A.-M. and {Liu}, W. and {Th{\'e}bault}, P.},
+    title = "{An interferometric study of the Fomalhaut inner debris disk. III. Detailed models of the exozodiacal disk and its origin}",
+  journal = {\aap},
+archivePrefix = "arXiv",
+   eprint = {1306.0956},
+ primaryClass = "astro-ph.EP",
+ keywords = {techniques: interferometric, zodiacal dust, infrared: planetary systems, stars: individual: Fomalhaut, radiative transfer, circumstellar matter},
+     year = 2013,
+    month = jul,
+   volume = 555,
+      eid = {A146},
+    pages = {A146},
+      doi = {10.1051/0004-6361/201321415},
+   adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...555A.146L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
